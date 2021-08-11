@@ -6,8 +6,8 @@ api_key = "72d8a7df3d2cfa42e98082f3e3d5b5dd"
 city = "Phnom Penh"
 lat = "11.556374"
 lon = "104.928207"
-account_sid = "AC1a2e3805a4c6aee7de25f314bdf8db03"
-auth_token = "a01b37b1074c2dbd0e2f520ef677051b"
+account_sid = ""
+auth_token = ""
 
 weather_params = {
     "lat": lat,
